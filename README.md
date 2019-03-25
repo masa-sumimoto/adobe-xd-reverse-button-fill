@@ -1,8 +1,9 @@
-*Now, The following description is not valid because this plugin is currently under review.*
-
 # Adobe XD Reverse Button Fill
 Adobe XD Plugin to reverse fill of a text and a rectangle ( or a ellipse ). 
 This plugin is intended to be used for button-like elements.
+
+![mainvisual](https://github.com/masa-sumimoto/adobe-xd-reverse-button-fill/blob/master/src/images/mainvisual.png)
+
 
 ## How to install
 1. Select menu : Plugins > Discover Plugins
